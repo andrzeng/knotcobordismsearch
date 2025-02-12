@@ -1,0 +1,418 @@
+08/19/2024, 21:52:39: starting
+08/19/2024, 21:52:39: tree_depth=70, 
+
+           max_grid_size=7, 
+
+           max_births=1, 
+
+           max_deaths=5, 
+
+           max_stabilizations=100000, 
+
+           max_destabilizations=100000, 
+
+           max_pinches=100000, 
+
+           max_copinches=100000, 
+
+           max_commutations=100000, 
+
+           isotopy_only=False
+08/19/2024, 21:52:39: First grid:
+
+08/19/2024, 21:52:39: 
+[['X' 'O']
+ ['O' 'X']]
+08/19/2024, 21:52:39: Second grid:
+
+08/19/2024, 21:52:39: 
+[['O' ' ' 'X' ' ' ' ']
+ [' ' 'O' ' ' 'X' ' ']
+ [' ' ' ' 'O' ' ' 'X']
+ ['X' ' ' ' ' 'O' ' ']
+ [' ' 'X' ' ' ' ' 'O']]
+08/19/2024, 21:52:39: At level 0. At this level, there are 1 diagrams to be checked from the first tree and 1 diagrams to be checked from the second tree.
+08/19/2024, 21:52:39: 1 diagrams have been seen in the first tree in total
+08/19/2024, 21:52:39: 1 diagrams have been seen in the second tree in total
+08/19/2024, 21:52:39: Processing 0/1
+08/19/2024, 21:52:40: Processing 0/1
+08/19/2024, 21:52:40: T0:
+births: 1
+stabs: 4
+destabs: 0
+copinches: 0
+commutations: (0, 0)
+08/19/2024, 21:52:40: T1:
+deaths: 0
+stabs: 20
+destabs: 0
+pinches: 0
+commutations: (0, 0)
+08/19/2024, 21:52:40: At level 1. At this level, there are 5 diagrams to be checked from the first tree and 20 diagrams to be checked from the second tree.
+08/19/2024, 21:52:40: 6 diagrams have been seen in the first tree in total
+08/19/2024, 21:52:40: 21 diagrams have been seen in the second tree in total
+08/19/2024, 21:52:40: Processing 0/5
+08/19/2024, 21:52:40: Processing 0/20
+08/19/2024, 21:52:40: T0:
+births: 1
+stabs: 37
+destabs: 1
+copinches: 0
+commutations: (1, 1)
+08/19/2024, 21:52:40: T1:
+deaths: 0
+stabs: 300
+destabs: 0
+pinches: 2
+commutations: (8, 8)
+08/19/2024, 21:52:40: At level 2. At this level, there are 36 diagrams to be checked from the first tree and 298 diagrams to be checked from the second tree.
+08/19/2024, 21:52:40: 42 diagrams have been seen in the first tree in total
+08/19/2024, 21:52:40: 319 diagrams have been seen in the second tree in total
+08/19/2024, 21:52:40: Processing 0/36
+08/19/2024, 21:52:40: Processing 0/298
+08/19/2024, 21:52:40: T0:
+births: 1
+stabs: 328
+destabs: 4
+copinches: 0
+commutations: (8, 8)
+08/19/2024, 21:52:40: T1:
+deaths: 0
+stabs: 597
+destabs: 0
+pinches: 38
+commutations: (166, 169)
+08/19/2024, 21:52:40: At level 3. At this level, there are 308 diagrams to be checked from the first tree and 652 diagrams to be checked from the second tree.
+08/19/2024, 21:52:40: 350 diagrams have been seen in the first tree in total
+08/19/2024, 21:52:40: 971 diagrams have been seen in the second tree in total
+08/19/2024, 21:52:40: Processing 0/308
+08/19/2024, 21:52:40: Processing 0/652
+08/19/2024, 21:52:41: T0:
+births: 1
+stabs: 3128
+destabs: 18
+copinches: 1
+commutations: (93, 93)
+08/19/2024, 21:52:41: T1:
+deaths: 0
+stabs: 1087
+destabs: 4
+pinches: 99
+commutations: (470, 529)
+08/19/2024, 21:52:41: At level 4. At this level, there are 2985 diagrams to be checked from the first tree and 1219 diagrams to be checked from the second tree.
+08/19/2024, 21:52:41: 3335 diagrams have been seen in the first tree in total
+08/19/2024, 21:52:41: 2190 diagrams have been seen in the second tree in total
+08/19/2024, 21:52:41: Processing 0/2985
+08/19/2024, 21:52:41: Processing 1000/2985
+08/19/2024, 21:52:43: Processing 2000/2985
+08/19/2024, 21:52:44: Processing 0/1219
+08/19/2024, 21:52:44: Processing 1000/1219
+08/19/2024, 21:52:44: T0:
+births: 1797
+stabs: 26596
+destabs: 115
+copinches: 15
+commutations: (1140, 1141)
+08/19/2024, 21:52:44: T1:
+deaths: 0
+stabs: 1684
+destabs: 73
+pinches: 216
+commutations: (945, 1066)
+08/19/2024, 21:52:44: At level 5. At this level, there are 27470 diagrams to be checked from the first tree and 1795 diagrams to be checked from the second tree.
+08/19/2024, 21:52:44: 30805 diagrams have been seen in the first tree in total
+08/19/2024, 21:52:44: 3985 diagrams have been seen in the second tree in total
+08/19/2024, 21:52:44: Processing 0/27470
+08/19/2024, 21:52:45: Processing 1000/27470
+08/19/2024, 21:52:46: Processing 2000/27470
+08/19/2024, 21:52:46: Processing 3000/27470
+08/19/2024, 21:52:47: Processing 4000/27470
+08/19/2024, 21:52:47: Processing 5000/27470
+08/19/2024, 21:52:48: Processing 6000/27470
+08/19/2024, 21:52:49: Processing 7000/27470
+08/19/2024, 21:52:49: Processing 8000/27470
+08/19/2024, 21:52:50: Processing 9000/27470
+08/19/2024, 21:52:50: Processing 10000/27470
+08/19/2024, 21:52:51: Processing 11000/27470
+08/19/2024, 21:52:51: Processing 12000/27470
+08/19/2024, 21:52:52: Processing 13000/27470
+08/19/2024, 21:52:52: Processing 14000/27470
+08/19/2024, 21:52:53: Processing 15000/27470
+08/19/2024, 21:52:53: Processing 16000/27470
+08/19/2024, 21:52:54: Processing 17000/27470
+08/19/2024, 21:52:54: Processing 18000/27470
+08/19/2024, 21:52:54: Processing 19000/27470
+08/19/2024, 21:52:55: Processing 20000/27470
+08/19/2024, 21:52:55: Processing 21000/27470
+08/19/2024, 21:52:56: Processing 22000/27470
+08/19/2024, 21:52:56: Processing 23000/27470
+08/19/2024, 21:52:56: Processing 24000/27470
+08/19/2024, 21:52:57: Processing 25000/27470
+08/19/2024, 21:52:57: Processing 26000/27470
+08/19/2024, 21:52:58: Processing 27000/27470
+08/19/2024, 21:52:58: Processing 0/1795
+08/19/2024, 21:52:58: Processing 1000/1795
+08/19/2024, 21:52:59: T0:
+births: 4884
+stabs: 77761
+destabs: 410
+copinches: 160
+commutations: (13461, 13628)
+08/19/2024, 21:52:59: T1:
+deaths: 0
+stabs: 3217
+destabs: 140
+pinches: 345
+commutations: (1650, 1891)
+08/19/2024, 21:52:59: At level 6. At this level, there are 79500 diagrams to be checked from the first tree and 3259 diagrams to be checked from the second tree.
+08/19/2024, 21:52:59: 110305 diagrams have been seen in the first tree in total
+08/19/2024, 21:52:59: 7244 diagrams have been seen in the second tree in total
+08/19/2024, 21:52:59: Processing 0/79500
+08/19/2024, 21:52:59: Processing 1000/79500
+08/19/2024, 21:53:00: Processing 2000/79500
+08/19/2024, 21:53:00: Processing 3000/79500
+08/19/2024, 21:53:01: Processing 4000/79500
+08/19/2024, 21:53:01: Processing 5000/79500
+08/19/2024, 21:53:01: Processing 6000/79500
+08/19/2024, 21:53:02: Processing 7000/79500
+08/19/2024, 21:53:02: Processing 8000/79500
+08/19/2024, 21:53:03: Processing 9000/79500
+08/19/2024, 21:53:03: Processing 10000/79500
+08/19/2024, 21:53:03: Processing 11000/79500
+08/19/2024, 21:53:04: Processing 12000/79500
+08/19/2024, 21:53:04: Processing 13000/79500
+08/19/2024, 21:53:05: Processing 14000/79500
+08/19/2024, 21:53:05: Processing 15000/79500
+08/19/2024, 21:53:05: Processing 16000/79500
+08/19/2024, 21:53:06: Processing 17000/79500
+08/19/2024, 21:53:06: Processing 18000/79500
+08/19/2024, 21:53:07: Processing 19000/79500
+08/19/2024, 21:53:07: Processing 20000/79500
+08/19/2024, 21:53:07: Processing 21000/79500
+08/19/2024, 21:53:08: Processing 22000/79500
+08/19/2024, 21:53:08: Processing 23000/79500
+08/19/2024, 21:53:08: Processing 24000/79500
+08/19/2024, 21:53:09: Processing 25000/79500
+08/19/2024, 21:53:10: Processing 26000/79500
+08/19/2024, 21:53:10: Processing 27000/79500
+08/19/2024, 21:53:10: Processing 28000/79500
+08/19/2024, 21:53:11: Processing 29000/79500
+08/19/2024, 21:53:11: Processing 30000/79500
+08/19/2024, 21:53:11: Processing 31000/79500
+08/19/2024, 21:53:12: Processing 32000/79500
+08/19/2024, 21:53:12: Processing 33000/79500
+08/19/2024, 21:53:12: Processing 34000/79500
+08/19/2024, 21:53:13: Processing 35000/79500
+08/19/2024, 21:53:13: Processing 36000/79500
+08/19/2024, 21:53:13: Processing 37000/79500
+08/19/2024, 21:53:14: Processing 38000/79500
+08/19/2024, 21:53:14: Processing 39000/79500
+08/19/2024, 21:53:14: Processing 40000/79500
+08/19/2024, 21:53:15: Processing 41000/79500
+08/19/2024, 21:53:15: Processing 42000/79500
+08/19/2024, 21:53:15: Processing 43000/79500
+08/19/2024, 21:53:16: Processing 44000/79500
+08/19/2024, 21:53:16: Processing 45000/79500
+08/19/2024, 21:53:16: Processing 46000/79500
+08/19/2024, 21:53:17: Processing 47000/79500
+08/19/2024, 21:53:17: Processing 48000/79500
+08/19/2024, 21:53:17: Processing 49000/79500
+08/19/2024, 21:53:18: Processing 50000/79500
+08/19/2024, 21:53:18: Processing 51000/79500
+08/19/2024, 21:53:18: Processing 52000/79500
+08/19/2024, 21:53:19: Processing 53000/79500
+08/19/2024, 21:53:19: Processing 54000/79500
+08/19/2024, 21:53:20: Processing 55000/79500
+08/19/2024, 21:53:20: Processing 56000/79500
+08/19/2024, 21:53:20: Processing 57000/79500
+08/19/2024, 21:53:21: Processing 58000/79500
+08/19/2024, 21:53:21: Processing 59000/79500
+08/19/2024, 21:53:21: Processing 60000/79500
+08/19/2024, 21:53:22: Processing 61000/79500
+08/19/2024, 21:53:22: Processing 62000/79500
+08/19/2024, 21:53:22: Processing 63000/79500
+08/19/2024, 21:53:23: Processing 64000/79500
+08/19/2024, 21:53:23: Processing 65000/79500
+08/19/2024, 21:53:23: Processing 66000/79500
+08/19/2024, 21:53:24: Processing 67000/79500
+08/19/2024, 21:53:24: Processing 68000/79500
+08/19/2024, 21:53:24: Processing 69000/79500
+08/19/2024, 21:53:24: Processing 70000/79500
+08/19/2024, 21:53:25: Processing 71000/79500
+08/19/2024, 21:53:25: Processing 72000/79500
+08/19/2024, 21:53:25: Processing 73000/79500
+08/19/2024, 21:53:26: Processing 74000/79500
+08/19/2024, 21:53:26: Processing 75000/79500
+08/19/2024, 21:53:26: Processing 76000/79500
+08/19/2024, 21:53:27: Processing 77000/79500
+08/19/2024, 21:53:27: Processing 78000/79500
+08/19/2024, 21:53:27: Processing 79000/79500
+08/19/2024, 21:53:28: Processing 0/3259
+08/19/2024, 21:53:28: Processing 1000/3259
+08/19/2024, 21:53:28: T0:
+births: 6853
+stabs: 133773
+destabs: 970
+copinches: 1895
+commutations: (42419, 47018)
+08/19/2024, 21:53:28: T1:
+deaths: 0
+stabs: 3833
+destabs: 197
+pinches: 439
+commutations: (2083, 2393)
+08/19/2024, 21:53:28: Found; 
+08/19/2024, 21:53:28: The move history: 
+08/19/2024, 21:53:28: Move history from the MINUS (-) direction:
+
+08/19/2024, 21:53:28: Performed 1:SW stabilization at (0, 0)
+08/19/2024, 21:53:28: Performed 2:SW stabilization at (0, 1)
+08/19/2024, 21:53:28: Performed 2:SW stabilization at (2, 3)
+08/19/2024, 21:53:28: commuted col 2 with col 3
+08/19/2024, 21:53:28: copinched row 1 with row 2
+08/19/2024, 21:53:28: Performed 2:SW stabilization at (1, 2)
+08/19/2024, 21:53:28: Performed 2:NE stabilization at (3, 4)
+08/19/2024, 21:53:28: Move history from the PLUS (+) direction:
+
+08/19/2024, 21:53:28: Performed 1:NE stabilization at (3, 0)
+08/19/2024, 21:53:28: commuted row 4 with row 5
+08/19/2024, 21:53:28: commuted col 1 with col 2
+08/19/2024, 21:53:28: commuted row 0 with row 1
+08/19/2024, 21:53:28: Performed 2:NE stabilization at (3, 4)
+08/19/2024, 21:53:28: pinched row 2 with row 3
+08/19/2024, 21:53:28: commuted row 2 with row 3
+08/19/2024, 21:53:28: Grid history from the MINUS (-) direction:
+
+08/19/2024, 21:53:28: 
+[['X' 'O']
+ ['O' 'X']]
+08/19/2024, 21:53:28: 
+Performed 1:SW stabilization at (0, 0)
+08/19/2024, 21:53:28: 
+[['X' 'O' ' ']
+ [' ' 'X' 'O']
+ ['O' ' ' 'X']]
+08/19/2024, 21:53:28: 
+Performed 2:SW stabilization at (0, 1)
+08/19/2024, 21:53:28: 
+[[' ' 'O' 'X' ' ']
+ ['X' ' ' 'O' ' ']
+ [' ' 'X' ' ' 'O']
+ ['O' ' ' ' ' 'X']]
+08/19/2024, 21:53:28: 
+Performed 2:SW stabilization at (2, 3)
+08/19/2024, 21:53:28: 
+[[' ' 'O' 'X' ' ' ' ']
+ ['X' ' ' 'O' ' ' ' ']
+ [' ' ' ' ' ' 'O' 'X']
+ [' ' 'X' ' ' ' ' 'O']
+ ['O' ' ' ' ' 'X' ' ']]
+08/19/2024, 21:53:28: 
+commuted col 2 with col 3
+08/19/2024, 21:53:28: 
+[[' ' 'O' ' ' 'X' ' ']
+ ['X' ' ' ' ' 'O' ' ']
+ [' ' ' ' 'O' ' ' 'X']
+ [' ' 'X' ' ' ' ' 'O']
+ ['O' ' ' 'X' ' ' ' ']]
+08/19/2024, 21:53:28: 
+copinched row 1 with row 2
+08/19/2024, 21:53:28: 
+[[' ' 'O' ' ' 'X' ' ']
+ ['X' ' ' 'O' ' ' ' ']
+ [' ' ' ' ' ' 'O' 'X']
+ [' ' 'X' ' ' ' ' 'O']
+ ['O' ' ' 'X' ' ' ' ']]
+08/19/2024, 21:53:28: 
+Performed 2:SW stabilization at (1, 2)
+08/19/2024, 21:53:28: 
+[[' ' 'O' ' ' ' ' 'X' ' ']
+ [' ' ' ' 'O' 'X' ' ' ' ']
+ ['X' ' ' ' ' 'O' ' ' ' ']
+ [' ' ' ' ' ' ' ' 'O' 'X']
+ [' ' 'X' ' ' ' ' ' ' 'O']
+ ['O' ' ' 'X' ' ' ' ' ' ']]
+08/19/2024, 21:53:28: 
+Performed 2:NE stabilization at (3, 4)
+08/19/2024, 21:53:28: 
+[[' ' 'O' ' ' ' ' ' ' 'X' ' ']
+ [' ' ' ' 'O' 'X' ' ' ' ' ' ']
+ ['X' ' ' ' ' 'O' ' ' ' ' ' ']
+ [' ' ' ' ' ' ' ' 'O' ' ' 'X']
+ [' ' ' ' ' ' ' ' 'X' 'O' ' ']
+ [' ' 'X' ' ' ' ' ' ' ' ' 'O']
+ ['O' ' ' 'X' ' ' ' ' ' ' ' ']]
+08/19/2024, 21:53:28: Grid history from the PLUS (+) direction:
+
+08/19/2024, 21:53:28: 
+[[' ' 'O' ' ' ' ' ' ' 'X' ' ']
+ [' ' ' ' 'O' 'X' ' ' ' ' ' ']
+ ['X' ' ' ' ' 'O' ' ' ' ' ' ']
+ [' ' ' ' ' ' ' ' 'O' ' ' 'X']
+ [' ' ' ' ' ' ' ' 'X' 'O' ' ']
+ [' ' 'X' ' ' ' ' ' ' ' ' 'O']
+ ['O' ' ' 'X' ' ' ' ' ' ' ' ']]
+08/19/2024, 21:53:28: 
+commuted row 2 with row 3
+08/19/2024, 21:53:28: 
+[[' ' 'O' ' ' ' ' ' ' 'X' ' ']
+ [' ' ' ' 'O' 'X' ' ' ' ' ' ']
+ [' ' ' ' ' ' ' ' 'O' ' ' 'X']
+ ['X' ' ' ' ' 'O' ' ' ' ' ' ']
+ [' ' ' ' ' ' ' ' 'X' 'O' ' ']
+ [' ' 'X' ' ' ' ' ' ' ' ' 'O']
+ ['O' ' ' 'X' ' ' ' ' ' ' ' ']]
+08/19/2024, 21:53:28: 
+pinched row 2 with row 3
+08/19/2024, 21:53:28: 
+[[' ' 'O' ' ' ' ' ' ' 'X' ' ']
+ [' ' ' ' 'O' 'X' ' ' ' ' ' ']
+ [' ' ' ' ' ' 'O' ' ' ' ' 'X']
+ ['X' ' ' ' ' ' ' 'O' ' ' ' ']
+ [' ' ' ' ' ' ' ' 'X' 'O' ' ']
+ [' ' 'X' ' ' ' ' ' ' ' ' 'O']
+ ['O' ' ' 'X' ' ' ' ' ' ' ' ']]
+08/19/2024, 21:53:28: 
+Performed 2:NE stabilization at (3, 4)
+08/19/2024, 21:53:28: 
+[[' ' 'O' ' ' ' ' 'X' ' ']
+ [' ' ' ' 'O' 'X' ' ' ' ']
+ [' ' ' ' ' ' 'O' ' ' 'X']
+ ['X' ' ' ' ' ' ' 'O' ' ']
+ [' ' 'X' ' ' ' ' ' ' 'O']
+ ['O' ' ' 'X' ' ' ' ' ' ']]
+08/19/2024, 21:53:28: 
+commuted row 0 with row 1
+08/19/2024, 21:53:28: 
+[[' ' ' ' 'O' 'X' ' ' ' ']
+ [' ' 'O' ' ' ' ' 'X' ' ']
+ [' ' ' ' ' ' 'O' ' ' 'X']
+ ['X' ' ' ' ' ' ' 'O' ' ']
+ [' ' 'X' ' ' ' ' ' ' 'O']
+ ['O' ' ' 'X' ' ' ' ' ' ']]
+08/19/2024, 21:53:28: 
+commuted col 1 with col 2
+08/19/2024, 21:53:28: 
+[[' ' 'O' ' ' 'X' ' ' ' ']
+ [' ' ' ' 'O' ' ' 'X' ' ']
+ [' ' ' ' ' ' 'O' ' ' 'X']
+ ['X' ' ' ' ' ' ' 'O' ' ']
+ [' ' ' ' 'X' ' ' ' ' 'O']
+ ['O' 'X' ' ' ' ' ' ' ' ']]
+08/19/2024, 21:53:28: 
+commuted row 4 with row 5
+08/19/2024, 21:53:28: 
+[[' ' 'O' ' ' 'X' ' ' ' ']
+ [' ' ' ' 'O' ' ' 'X' ' ']
+ [' ' ' ' ' ' 'O' ' ' 'X']
+ ['X' ' ' ' ' ' ' 'O' ' ']
+ ['O' 'X' ' ' ' ' ' ' ' ']
+ [' ' ' ' 'X' ' ' ' ' 'O']]
+08/19/2024, 21:53:28: 
+Performed 1:NE stabilization at (3, 0)
+08/19/2024, 21:53:28: 
+[['O' ' ' 'X' ' ' ' ']
+ [' ' 'O' ' ' 'X' ' ']
+ [' ' ' ' 'O' ' ' 'X']
+ ['X' ' ' ' ' 'O' ' ']
+ [' ' 'X' ' ' ' ' 'O']]
